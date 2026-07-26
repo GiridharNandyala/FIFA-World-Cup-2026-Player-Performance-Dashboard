@@ -9,7 +9,7 @@ An interactive **Power BI** dashboard analyzing player-level statistics, perform
 
 ## 📊 Visual Preview
 
-![FIFA World Cup 2026 Player Performance Dashboard]()
+![FIFA World Cup 2026 Player Performance Dashboard](https://github.com/GiridharNandyala/FIFA-World-Cup-2026-Player-Performance-Dashboard/blob/main/FIFA%20WORLD%20CUP%20DASHBOARD%20Image.png)
 
 ---
 
